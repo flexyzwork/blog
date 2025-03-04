@@ -36,13 +36,5 @@ export default withBundleAnalyzer({
   },
 
   // See https://react-tweet.vercel.app/next#troubleshooting
-  transpilePackages: ['react-tweet'],
-  async rewrites() {
-    return [
-      {
-        source: '/:path*',
-        destination: 'https://blog.flexyz.work/:path*'
-      }
-    ]
-  }
+  transpilePackages: ['react-tweet']
 })
