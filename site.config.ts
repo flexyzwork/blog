@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: undefined,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: 'FLEXYZ Tech Blog',
   domain: 'blog.flexyz.work',
-  author: 'CODELAB',
+  author: 'flexyzwork',
 
   // open graph metadata (optional)
-  description: 'flexyz tech blog',
+  description: "Flexyz's Tech: Next.js + Notion 기반 테크 블로그",
 
   // social usernames (optional)
   twitter: 'flexyzwork',
