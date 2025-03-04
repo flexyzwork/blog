@@ -1,0 +1,735 @@
+
+
+> @apps/blog@2.0.0 build /Users/codelab/github_repos/flexyz/vercel/blog
+> next build
+
+   [1m[38;2;173;127;168m▲ Next.js 15.1.6[39m[22m
+   - Environments: .env
+
+[?25l [37m[1m [22m[39m Linting and checking validity of types  [36m.[39m[2K[1G [37m[1m [22m[39m Linting and checking validity of types  [36m..[39m[2K[1G [37m[1m [22m[39m Linting and checking validity of types  [36m...[39m[2K[1G [37m[1m [22m[39m Linting and checking validity of types  [36m.[39m[2K[1G [37m[1m [22m[39m Linting and checking validity of types  [36m..[39m[2K[1G [37m[1m [22m[39m Linting and checking validity of types  [36m...[39m[2K[1G [37m[1m [22m[39m Linting and checking validity of types  [36m.[39m
+ ⚠ The Next.js plugin was not detected in your ESLint configuration. See https://nextjs.org/docs/app/api-reference/config/eslint#migrating-existing-config
+ ⨯ ESLint: Error while loading rule 'unicorn/expiring-todo-comments': Cannot read properties of undefined (reading 'decoration') Occurred while linting /Users/codelab/github_repos/flexyz/vercel/blog/pages/404.tsx
+[2K[1G [37m[1m [22m[39m Linting and checking validity of types  [36m..[39m[2K[1G[?25h [37m[1m [22m[39m Linting and checking validity of types     [32m[1m✓[22m[39m Linting and checking validity of types 
+ [37m[1m [22m[39m Creating an optimized production build ...
+<w> [1m[33m[webpack.cache.PackFileCacheStrategy] Serializing big strings (699kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)[39m[22m
+ [32m[1m✓[22m[39m Compiled successfully
+[?25l [37m[1m [22m[39m Collecting page data  [36m.[39m[2K[1G [37m[1m [22m[39m Collecting page data  [36m..[39m(node:51201) [DEP0128] DeprecationWarning: Invalid 'main' field in '/Users/codelab/github_repos/flexyz/vercel/blog/node_modules/@react-icons/all-files/package.json' of 'lib'. Please either fix that or report it to the module author
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:51204) [DEP0128] DeprecationWarning: Invalid 'main' field in '/Users/codelab/github_repos/flexyz/vercel/blog/node_modules/@react-icons/all-files/package.json' of 'lib'. Please either fix that or report it to the module author
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:51207) [DEP0128] DeprecationWarning: Invalid 'main' field in '/Users/codelab/github_repos/flexyz/vercel/blog/node_modules/@react-icons/all-files/package.json' of 'lib'. Please either fix that or report it to the module author
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:51210) [DEP0128] DeprecationWarning: Invalid 'main' field in '/Users/codelab/github_repos/flexyz/vercel/blog/node_modules/@react-icons/all-files/package.json' of 'lib'. Please either fix that or report it to the module author
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:51203) [DEP0128] DeprecationWarning: Invalid 'main' field in '/Users/codelab/github_repos/flexyz/vercel/blog/node_modules/@react-icons/all-files/package.json' of 'lib'. Please either fix that or report it to the module author
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:51202) [DEP0128] DeprecationWarning: Invalid 'main' field in '/Users/codelab/github_repos/flexyz/vercel/blog/node_modules/@react-icons/all-files/package.json' of 'lib'. Please either fix that or report it to the module author
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:51205) [DEP0128] DeprecationWarning: Invalid 'main' field in '/Users/codelab/github_repos/flexyz/vercel/blog/node_modules/@react-icons/all-files/package.json' of 'lib'. Please either fix that or report it to the module author
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:51209) [DEP0128] DeprecationWarning: Invalid 'main' field in '/Users/codelab/github_repos/flexyz/vercel/blog/node_modules/@react-icons/all-files/package.json' of 'lib'. Please either fix that or report it to the module author
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:51206) [DEP0128] DeprecationWarning: Invalid 'main' field in '/Users/codelab/github_repos/flexyz/vercel/blog/node_modules/@react-icons/all-files/package.json' of 'lib'. Please either fix that or report it to the module author
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:51208) [DEP0128] DeprecationWarning: Invalid 'main' field in '/Users/codelab/github_repos/flexyz/vercel/blog/node_modules/@react-icons/all-files/package.json' of 'lib'. Please either fix that or report it to the module author
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[2K[1G [37m[1m [22m[39m Collecting page data  [36m...[39m
+notion getPage 1acc9a218faa81369783f74b3037f71a
+[2K[1G [37m[1m [22m[39m Collecting page data  [36m.[39m[2K[1G [37m[1m [22m[39m Collecting page data  [36m..[39m[2K[1G [37m[1m [22m[39m Collecting page data  [36m...[39m[2K[1G [37m[1m [22m[39m Collecting page data  [36m.[39m
+notion getPage 1acc9a218faa802ab8cbce2de107b7cc
+
+notion getPage 1acc9a218faa80bea65df5a7249a6bc0
+
+notion getPage 1acc9a218faa8105be4ccd8c509b0469
+
+notion getPage 1acc9a218faa81199218c799e3a0e269
+[2K[1G [37m[1m [22m[39m Collecting page data  [36m..[39m
+notion getPage 1acc9a218faa81828127df1a2e78945b
+
+notion getPage 1acc9a218faa81bbbbd4fb8a21dce341
+[2K[1G [37m[1m [22m[39m Collecting page data  [36m...[39m[2K[1G [37m[1m [22m[39m Collecting page data  [36m.[39m[2K[1G [37m[1m [22m[39m Collecting page data  [36m..[39m
+notion getPage 1acc9a218faa8146ac02c79ffae3a526
+
+notion getPage 1acc9a218faa81b7a56bdfcc5545fb0f
+[2K[1G [37m[1m [22m[39m Collecting page data  [36m...[39m[
+  { params: { pageId: 'blog-posts' } },
+  { params: { pageId: 'nextjs-notion-starter-kit' } },
+  { params: { pageId: 'use-notion-cms' } },
+  { params: { pageId: 'custom-slug' } },
+  { params: { pageId: 'example-article' } },
+  { params: { pageId: 'blog' } },
+  { params: { pageId: 'about' } },
+  { params: { pageId: 'contact' } }
+]
+[2K[1G[?25h [37m[1m [22m[39m Collecting page data     [32m[1m✓[22m[39m Collecting page data 
+[?25l [37m[1m [22m[39m Generating static pages (0/12)  [36m[    ][39m[2K[1G [37m[1m [22m[39m Generating static pages (0/12)  [36m[=   ][39m[2K[1G[?25h(node:51284) [DEP0128] DeprecationWarning: Invalid 'main' field in '/Users/codelab/github_repos/flexyz/vercel/blog/node_modules/@react-icons/all-files/package.json' of 'lib'. Please either fix that or report it to the module author
+(Use `node --trace-deprecation ...` to show where the warning was created)
+
+notion getPage 1acc9a218faa81369783f74b3037f71a
+{
+  domain: 'blog.flexyz.work',
+  name: 'Next.js Notion Starter Kit',
+  rootNotionPageId: '1acc9a218faa81369783f74b3037f71a',
+  rootNotionSpaceId: null,
+  description: 'flexyz tech blog'
+}
+
+notion getPage 1acc9a218faa802ab8cbce2de107b7cc
+
+notion getPage 1acc9a218faa80bea65df5a7249a6bc0
+
+notion getPage 1acc9a218faa8105be4ccd8c509b0469
+
+notion getPage 1acc9a218faa81199218c799e3a0e269
+
+notion getPage 1acc9a218faa81828127df1a2e78945b
+
+notion getPage 1acc9a218faa81bbbbd4fb8a21dce341
+
+notion getPage 1acc9a218faa8146ac02c79ffae3a526
+
+notion getPage 1acc9a218faa81b7a56bdfcc5545fb0f
+lqip {
+  originalWidth: 1500,
+  originalHeight: 1295,
+  width: 16,
+  height: 14,
+  type: 'webp',
+  dataURIBase64: 'data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAA4ABUB8JYgCdAD0i0LA1AAA/sFCeUYZDrbqVTnqCDTdjajr20SC/hxNMT0Kb+EMfd/KYoAAAA==',
+  url: 'https://www.notion.so/image/https%3A%2F%2Fwww.notion.so%2Fimages%2Fpage-cover%2Frijksmuseum_claesz_1628.jpg?table=block&id=1acc9a21-8faa-8182-8127-df1a2e78945b&cache=v2',
+  cacheKey: 'notion.so/image/notion.so%2Fimages%2Fpage-cover%2Frijksmuseum_claesz_1628.jpg'
+}
+lqip {
+  originalWidth: 1500,
+  originalHeight: 868,
+  width: 16,
+  height: 9,
+  type: 'webp',
+  dataURIBase64: 'data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQAAkABUB8JbACdAD2Pr+qOAAA/s9+HJKRtotVRb1BfnWzMoeJQ1Q9KCqzCDug99ZV4EpIdragwngA',
+  url: 'https://www.notion.so/image/https%3A%2F%2Fwww.notion.so%2Fimages%2Fpage-cover%2Fwebb1.jpg?table=block&id=1acc9a21-8faa-80be-a65d-f5a7249a6bc0&cache=v2',
+  cacheKey: 'notion.so/image/notion.so%2Fimages%2Fpage-cover%2Fwebb1.jpg'
+}
+lqip {
+  originalWidth: 1200,
+  originalHeight: 630,
+  width: 16,
+  height: 8,
+  type: 'webp',
+  dataURIBase64: 'data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACwAQCdASoQAAgABUB8JbACdAEPgu8AAP614TzyDVgzrPZtyzqplLby9WWzuGCL2Aekp42//LhUpJdtwU9UEAAA',
+  url: 'https://www.notion.so/image/https%3A%2F%2Ftransitivebullsh.it%2Fapi%2Fsocial-image%3Fid%3Dd1b5dcf8-b9ff-425b-8aef-5ce6f0730202?table=block&id=1acc9a21-8faa-817b-bb38-c527eb2f2025&cache=v2',
+  cacheKey: 'notion.so/image/transitivebullsh.it%2Fapi%2Fsocial-image'
+}
+lqip {
+  originalWidth: 1920,
+  originalHeight: 887,
+  width: 16,
+  height: 7,
+  type: 'webp',
+  dataURIBase64: 'data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACQAQCdASoQAAcABUB8JbACdADxgIAA/rQDi+mMvFiNZLCxUbHDXyOZ0XOsUdF9ZHopYAAA',
+  url: 'https://www.notion.so/image/attachment%3A0cb69622-caba-4237-9639-98cdbd6e58af%3Abg-gradient-opt.jpg?table=block&id=1acc9a21-8faa-8119-9218-c799e3a0e269&cache=v2',
+  cacheKey: 'notion.so/image/attachment%3A0cb69622-caba-4237-9639-98cdbd6e58af%3Abg-gradient-opt.jpg'
+}
+lqip {
+  originalWidth: 96,
+  originalHeight: 96,
+  width: 16,
+  height: 16,
+  type: 'webp',
+  dataURIBase64: 'data:image/webp;base64,UklGRtYAAABXRUJQVlA4WAoAAAAQAAAADwAADwAAQUxQSEcAAAARJ6CQbQQYH9OPcxER2EcohCTJmTqErweICCeQ/KU+KUT0fwKghxagZWYKxKa0PIqdqp9WnDS/46R+Wnaq7STEptA2AXpoAQBWUDggaAAAAPABAJ0BKhAAEAAFQHwlsAKwBiwUnMvyAAD+7g65JvxU60E5A4LptF5CdlrhU6efmrC7lq8J1rf5E6N9u3C/qdw+j94sUh5rlQunG4zteyVEwvyEUW8d8KatZeTU5bEwNGO7S+5PEeAA',
+  url: 'https://www.notion.so/image/https%3A%2F%2Ftransitivebullsh.it%2Ffavicon-96x96.png?table=block&id=1acc9a21-8faa-817b-bb38-c527eb2f2025&cache=v2',
+  cacheKey: 'notion.so/image/transitivebullsh.it%2Ffavicon-96x96.png'
+}
+lqip {
+  originalWidth: 2000,
+  originalHeight: 500,
+  width: 16,
+  height: 4,
+  type: 'webp',
+  dataURIBase64: 'data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAADQAQCdASoQAAQABUB8JQBOgCIAPGy4AAD+787PWlJa+O5cFQnRalnAAAA=',
+  url: 'https://www.notion.so/image/attachment%3Af70d3dc6-ce97-4be2-9cde-b86606147b41%3A06.jpg?table=block&id=1acc9a21-8faa-802a-b8cb-ce2de107b7cc&cache=v2',
+  cacheKey: 'notion.so/image/attachment%3Af70d3dc6-ce97-4be2-9cde-b86606147b41%3A06.jpg'
+}
+lqip {
+  originalWidth: 192,
+  originalHeight: 192,
+  width: 16,
+  height: 16,
+  type: 'webp',
+  dataURIBase64: 'data:image/webp;base64,UklGRuwAAABXRUJQVlA4WAoAAAAQAAAADwAADwAAQUxQSEcAAAARJ0AmbZurpH5lahYRwZ5QCEmSM3UIXw8QEU4g+Ut9Uojo/wRADy1Ay8wUiE1peRQ7VT+tOGl+x0n9tOxU20mITaFtAvTQAgBWUDggfgAAABADAJ0BKhAAEAAFQHwlpAAbIDgxJgH6AH3A1jgrIMqqAADOAr9qZYoEVvmuKjtpbJXmTiVXEUcN7+nkjVL2XbxpIkRmV1Qv7NU+4ffDv/lqbUKENDDcR4MlQnwpg/9y7kScUkWRTUKhQJSt4dpiMdP7nfWvHBe3loATNhKAAA==',
+  url: 'https://www.notion.so/image/attachment%3A67628675-8e04-46e7-9b91-a5392caf0f30%3Anextjs-logo.png?table=block&id=1acc9a21-8faa-8119-9218-c799e3a0e269&cache=v2',
+  cacheKey: 'notion.so/image/attachment%3A67628675-8e04-46e7-9b91-a5392caf0f30%3Anextjs-logo.png'
+}
+lqip {
+  originalWidth: 192,
+  originalHeight: 192,
+  width: 16,
+  height: 16,
+  type: 'webp',
+  dataURIBase64: 'data:image/webp;base64,UklGRuwAAABXRUJQVlA4WAoAAAAQAAAADwAADwAAQUxQSEcAAAARJ0AmbZurpH5lahYRwZ5QCEmSM3UIXw8QEU4g+Ut9Uojo/wRADy1Ay8wUiE1peRQ7VT+tOGl+x0n9tOxU20mITaFtAvTQAgBWUDggfgAAABADAJ0BKhAAEAAFQHwlpAAbIDgxJgH6AH3A1jgrIMqqAADOAr9qZYoEVvmuKjtpbJXmTiVXEUcN7+nkjVL2XbxpIkRmV1Qv7NU+4ffDv/lqbUKENDDcR4MlQnwpg/9y7kScUkWRTUKhQJSt4dpiMdP7nfWvHBe3loATNhKAAA==',
+  url: 'https://www.notion.so/image/attachment%3Aa2bd3317-78e4-48bc-8d27-9b733175a416%3Anotion-opt.png?table=block&id=1acc9a21-8faa-802a-b8cb-ce2de107b7cc&cache=v2',
+  cacheKey: 'notion.so/image/attachment%3Aa2bd3317-78e4-48bc-8d27-9b733175a416%3Anotion-opt.png'
+}
+notion page {
+  isDev: false,
+  title: 'How I Use Notion as a CMS (with Next JS)',
+  pageId: '1acc9a21-8faa-80be-a65d-f5a7249a6bc0',
+  rootNotionPageId: '1acc9a218faa81369783f74b3037f71a',
+  recordMap: {
+    block: {
+      '1acc9a21-8faa-80be-a65d-f5a7249a6bc0': [Object],
+      '1acc9a21-8faa-8136-9783-f74b3037f71a': [Object],
+      '1acc9a21-8faa-802a-b8cb-ce2de107b7cc': [Object],
+      '1acc9a21-8faa-808f-9c0a-d4d9aacbfea5': [Object],
+      '1acc9a21-8faa-80b2-aec4-fa62f52de5c3': [Object],
+      '1acc9a21-8faa-809a-be46-ddc237bf9194': [Object]
+    },
+    collection: { '1acc9a21-8faa-81a6-8e7c-000b9941eded': [Object] },
+    collection_view: {
+      '1acc9a21-8faa-8199-88e2-000c6037ccd1': [Object],
+      '1acc9a21-8faa-814c-b029-000c121f0673': [Object]
+    },
+    team: { '1acc9a21-8faa-81ce-9d1c-0042c712a98e': [Object] },
+    notion_user: {},
+    collection_query: {},
+    signed_urls: {},
+    preview_images: {
+      'notion.so/image/notion.so%2Fimages%2Fpage-cover%2Fwebb1.jpg': [Object],
+      'notion.so/image/attachment%3Af70d3dc6-ce97-4be2-9cde-b86606147b41%3A06.jpg': [Object],
+      'notion.so/image/attachment%3Aa2bd3317-78e4-48bc-8d27-9b733175a416%3Anotion-opt.png': [Object]
+    },
+    tweets: {}
+  }
+}
+notion page {
+  isDev: false,
+  title: 'Example page using a custom slug',
+  pageId: '1acc9a21-8faa-8182-8127-df1a2e78945b',
+  rootNotionPageId: '1acc9a218faa81369783f74b3037f71a',
+  recordMap: {
+    block: {
+      '1acc9a21-8faa-8182-8127-df1a2e78945b': [Object],
+      '1acc9a21-8faa-8136-9783-f74b3037f71a': [Object],
+      '1acc9a21-8faa-802a-b8cb-ce2de107b7cc': [Object],
+      '1acc9a21-8faa-81d4-92fa-f3577b2f203a': [Object],
+      '1acc9a21-8faa-8119-90fc-f22196ff388a': [Object],
+      '1acc9a21-8faa-8133-a277-ed81ccc29199': [Object],
+      '1acc9a21-8faa-817c-826a-e6ff98b76fd2': [Object]
+    },
+    collection: { '1acc9a21-8faa-81a6-8e7c-000b9941eded': [Object] },
+    collection_view: {
+      '1acc9a21-8faa-8199-88e2-000c6037ccd1': [Object],
+      '1acc9a21-8faa-814c-b029-000c121f0673': [Object]
+    },
+    team: { '1acc9a21-8faa-81ce-9d1c-0042c712a98e': [Object] },
+    notion_user: {},
+    collection_query: {},
+    signed_urls: {},
+    preview_images: {
+      'notion.so/image/notion.so%2Fimages%2Fpage-cover%2Frijksmuseum_claesz_1628.jpg': [Object],
+      'notion.so/image/attachment%3Af70d3dc6-ce97-4be2-9cde-b86606147b41%3A06.jpg': [Object],
+      'notion.so/image/attachment%3Aa2bd3317-78e4-48bc-8d27-9b733175a416%3Anotion-opt.png': [Object]
+    },
+    tweets: {}
+  }
+}
+notion page {
+  isDev: false,
+  title: 'Next.js Notion Starter Kit',
+  pageId: '1acc9a21-8faa-8119-9218-c799e3a0e269',
+  rootNotionPageId: '1acc9a218faa81369783f74b3037f71a',
+  recordMap: {
+    block: {
+      '1acc9a21-8faa-8119-9218-c799e3a0e269': [Object],
+      '1acc9a21-8faa-8136-9783-f74b3037f71a': [Object],
+      '1acc9a21-8faa-802a-b8cb-ce2de107b7cc': [Object],
+      '1acc9a21-8faa-8135-95a6-ced8ef33f4e5': [Object],
+      '1acc9a21-8faa-817b-bb38-c527eb2f2025': [Object],
+      '1acc9a21-8faa-8100-b016-c40d3fe65089': [Object]
+    },
+    collection: { '1acc9a21-8faa-81a6-8e7c-000b9941eded': [Object] },
+    collection_view: {
+      '1acc9a21-8faa-8199-88e2-000c6037ccd1': [Object],
+      '1acc9a21-8faa-814c-b029-000c121f0673': [Object]
+    },
+    team: { '1acc9a21-8faa-81ce-9d1c-0042c712a98e': [Object] },
+    notion_user: {},
+    collection_query: {},
+    signed_urls: {},
+    preview_images: {
+      'notion.so/image/attachment%3A0cb69622-caba-4237-9639-98cdbd6e58af%3Abg-gradient-opt.jpg': [Object],
+      'notion.so/image/attachment%3A67628675-8e04-46e7-9b91-a5392caf0f30%3Anextjs-logo.png': [Object],
+      'notion.so/image/attachment%3Af70d3dc6-ce97-4be2-9cde-b86606147b41%3A06.jpg': [Object],
+      'notion.so/image/attachment%3Aa2bd3317-78e4-48bc-8d27-9b733175a416%3Anotion-opt.png': [Object],
+      'notion.so/image/transitivebullsh.it%2Fapi%2Fsocial-image': [Object],
+      'notion.so/image/transitivebullsh.it%2Ffavicon-96x96.png': [Object]
+    },
+    tweets: {}
+  }
+}
+lqip {
+  originalWidth: 2000,
+  originalHeight: 1500,
+  width: 16,
+  height: 12,
+  type: 'webp',
+  dataURIBase64: 'data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACwAQCdASoQAAwABUB8JQBOgBhTG6SAAP7o1XfB+MLQu6Z5VLWhOP2mPOYEEYpuqGPIOp+vTr6spRCM8q+zH8ATrgA=',
+  url: 'https://www.notion.so/image/attachment%3A08e9ffb5-9f6d-442b-b470-ce2e62a6b6b2%3Ablur-codes-coding-577585.jpg?table=block&id=1acc9a21-8faa-81bb-bbd4-fb8a21dce341&cache=v2',
+  cacheKey: 'notion.so/image/attachment%3A08e9ffb5-9f6d-442b-b470-ce2e62a6b6b2%3Ablur-codes-coding-577585.jpg'
+}
+lqip {
+  originalWidth: 1542,
+  originalHeight: 714,
+  width: 16,
+  height: 7,
+  type: 'webp',
+  dataURIBase64: 'data:image/webp;base64,UklGRnYAAABXRUJQVlA4WAoAAAAQAAAADwAABgAAQUxQSA4AAAARD3D//4iIMP8R/Y8BAFZQOCBCAAAA0AEAnQEqEAAHAAVAfCWwAnQBDv2xlgAA/oXOOItuff7cwnfLLV5ODEpNXIju3X/L6XDt/q+n2jhh75qUePwAAAAA',
+  url: 'https://www.notion.so/image/attachment%3Afa44fbba-90b4-4f40-a00f-fa6eb7fd37e3%3Acarbon.png?table=block&id=1acc9a21-8faa-8106-9cc0-c738204363a7&cache=v2',
+  cacheKey: 'notion.so/image/attachment%3Afa44fbba-90b4-4f40-a00f-fa6eb7fd37e3%3Acarbon.png'
+}
+lqip {
+  originalWidth: 640,
+  originalHeight: 432,
+  width: 16,
+  height: 11,
+  type: 'webp',
+  dataURIBase64: 'data:image/webp;base64,UklGRiYAAABXRUJQVlA4IBoAAAAwAQCdASoQAAsABUB8JZwAA3AA/u92uKAAAA==',
+  url: 'https://www.notion.so/image/attachment%3Add51c676-a398-43be-ac67-1fb524b22fa8%3Acrl.gif?table=block&id=1acc9a21-8faa-8133-a06f-f96db130eced&cache=v2',
+  cacheKey: 'notion.so/image/attachment%3Add51c676-a398-43be-ac67-1fb524b22fa8%3Acrl.gif'
+}
+lqip {
+  originalWidth: 998,
+  originalHeight: 207,
+  width: 16,
+  height: 3,
+  type: 'webp',
+  dataURIBase64: 'data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoQAAMABUB8JaQAA3AA/vAC0AA=',
+  url: 'https://www.notion.so/image/attachment%3A597cca0f-7d56-4cef-ab22-09f9886e42e5%3Aprompts.gif?table=block&id=1acc9a21-8faa-8169-b7dc-c62fef3d3ad7&cache=v2',
+  cacheKey: 'notion.so/image/attachment%3A597cca0f-7d56-4cef-ab22-09f9886e42e5%3Aprompts.gif'
+}
+lqip {
+  originalWidth: 600,
+  originalHeight: 338,
+  width: 16,
+  height: 9,
+  type: 'webp',
+  dataURIBase64: 'data:image/webp;base64,UklGRiYAAABXRUJQVlA4IBoAAAAwAQCdASoQAAkABUB8JZwAA3AA/u8pEBAAAA==',
+  url: 'https://www.notion.so/image/attachment%3Af25171e8-0137-43ff-8420-4e64311374a0%3Acss-coding.gif?table=block&id=1acc9a21-8faa-8143-8681-c985652c7d64&cache=v2',
+  cacheKey: 'notion.so/image/attachment%3Af25171e8-0137-43ff-8420-4e64311374a0%3Acss-coding.gif'
+}
+notion page {
+  isDev: false,
+  title: 'Example article',
+  pageId: '1acc9a21-8faa-81bb-bbd4-fb8a21dce341',
+  rootNotionPageId: '1acc9a218faa81369783f74b3037f71a',
+  recordMap: {
+    block: {
+      '1acc9a21-8faa-81bb-bbd4-fb8a21dce341': [Object],
+      '1acc9a21-8faa-8136-9783-f74b3037f71a': [Object],
+      '1acc9a21-8faa-802a-b8cb-ce2de107b7cc': [Object],
+      '1acc9a21-8faa-8129-9e5f-e07dff5fece3': [Object],
+      '1acc9a21-8faa-81bc-bdb6-f69df9b1b717': [Object],
+      '1acc9a21-8faa-8140-a6e5-ebdb2c47fe8b': [Object],
+      '1acc9a21-8faa-8166-885d-c41017e56994': [Object],
+      '1acc9a21-8faa-8182-8889-c40a32db2145': [Object],
+      '1acc9a21-8faa-8143-8681-c985652c7d64': [Object],
+      '1acc9a21-8faa-81df-a470-d901f061ed27': [Object],
+      '1acc9a21-8faa-811f-9681-dd0aa10afd3a': [Object],
+      '1acc9a21-8faa-81b3-beec-daeaca130441': [Object],
+      '1acc9a21-8faa-8157-a027-cf0309497991': [Object],
+      '1acc9a21-8faa-81b2-84d9-ef02e1d1e198': [Object],
+      '1acc9a21-8faa-8187-8a02-c96b6f69d38a': [Object],
+      '1acc9a21-8faa-8118-ae75-fbe6727d9480': [Object],
+      '1acc9a21-8faa-812f-bfd6-fe4d6e08bb56': [Object],
+      '1acc9a21-8faa-81fd-ac66-df3d591b4582': [Object],
+      '1acc9a21-8faa-811f-bd06-eb89a05ce28d': [Object],
+      '1acc9a21-8faa-811f-82d3-c54cc9306588': [Object],
+      '1acc9a21-8faa-81ee-b2b5-d861dfbcdf19': [Object],
+      '1acc9a21-8faa-81da-9c40-c14cab873de6': [Object],
+      '1acc9a21-8faa-81f6-a605-ffe5f7440ffc': [Object],
+      '1acc9a21-8faa-8133-8e62-ccb5dff8238c': [Object],
+      '1acc9a21-8faa-81e4-aa06-f6596c0ac1a2': [Object],
+      '1acc9a21-8faa-81f2-8cef-d52527b2a7fa': [Object],
+      '1acc9a21-8faa-8153-ab12-f8c0e6082efb': [Object],
+      '1acc9a21-8faa-81e4-9dcc-fb1e8b92c35b': [Object],
+      '1acc9a21-8faa-8192-86a8-ed1f560bd050': [Object],
+      '1acc9a21-8faa-8106-9cc0-c738204363a7': [Object],
+      '1acc9a21-8faa-81c3-9ec7-f40a4159abb6': [Object],
+      '1acc9a21-8faa-815e-8096-d5f735ca9fd5': [Object],
+      '1acc9a21-8faa-8112-ac1f-eaf47075431b': [Object],
+      '1acc9a21-8faa-81ef-9d1d-ecf2ec98b98c': [Object],
+      '1acc9a21-8faa-812b-aa63-daf2da0cb53f': [Object],
+      '1acc9a21-8faa-81f4-abbd-d4ff0a8ac270': [Object],
+      '1acc9a21-8faa-8133-a06f-f96db130eced': [Object],
+      '1acc9a21-8faa-81f9-a029-e6727283da91': [Object],
+      '1acc9a21-8faa-817b-8c74-e68229ffba47': [Object],
+      '1acc9a21-8faa-8143-bb2f-e7d94586643b': [Object],
+      '1acc9a21-8faa-81e8-a882-e1949c311fec': [Object],
+      '1acc9a21-8faa-810e-a48f-c241ae264da1': [Object],
+      '1acc9a21-8faa-8152-96c3-c9ad8b599bad': [Object],
+      '1acc9a21-8faa-81f8-9a9e-d608829cfd1c': [Object],
+      '1acc9a21-8faa-811d-a59e-d040e38346e8': [Object],
+      '1acc9a21-8faa-818b-b742-e5a48f45b4f0': [Object],
+      '1acc9a21-8faa-8121-91c5-eda365c7778a': [Object],
+      '1acc9a21-8faa-811a-89eb-cd2caa1218c8': [Object],
+      '1acc9a21-8faa-8194-a4d1-f95e799e07ab': [Object],
+      '1acc9a21-8faa-81a5-bbad-d3fe94503474': [Object],
+      '1acc9a21-8faa-81a8-a0c8-f1f4edc8ea89': [Object],
+      '1acc9a21-8faa-81af-9d05-ef301b4f769b': [Object],
+      '1acc9a21-8faa-814d-9e5f-cf16e174492f': [Object],
+      '1acc9a21-8faa-81e8-a0bf-deec8119352c': [Object],
+      '1acc9a21-8faa-8130-9a43-fd32077e706e': [Object],
+      '1acc9a21-8faa-815c-a4f7-e8ff10aec6ee': [Object],
+      '1acc9a21-8faa-8169-b7dc-c62fef3d3ad7': [Object],
+      '1acc9a21-8faa-81f6-ac6f-d199516182e6': [Object],
+      '1acc9a21-8faa-814a-80aa-f77197df55dc': [Object],
+      '1acc9a21-8faa-81d3-a81f-dbce6a2841e6': [Object],
+      '1acc9a21-8faa-8166-9167-d6a8cae2b486': [Object],
+      '1acc9a21-8faa-818c-8203-dda320d0c178': [Object],
+      '1acc9a21-8faa-8166-ab3e-c890d07ec3e7': [Object],
+      '1acc9a21-8faa-81ad-88b8-e1ff1bb52c0b': [Object],
+      '1acc9a21-8faa-81a1-a7d8-db492b7fb819': [Object],
+      '1acc9a21-8faa-817d-a733-c71253b30c5e': [Object],
+      '1acc9a21-8faa-81ea-be21-c1f43c3fe9d5': [Object],
+      '1acc9a21-8faa-811e-b560-e9512f1a21a0': [Object],
+      '1acc9a21-8faa-8179-a6e6-d9167ba48c3f': [Object]
+    },
+    collection: { '1acc9a21-8faa-81a6-8e7c-000b9941eded': [Object] },
+    collection_view: {
+      '1acc9a21-8faa-8199-88e2-000c6037ccd1': [Object],
+      '1acc9a21-8faa-814c-b029-000c121f0673': [Object]
+    },
+    team: { '1acc9a21-8faa-81ce-9d1c-0042c712a98e': [Object] },
+    notion_user: {},
+    collection_query: {},
+    signed_urls: {},
+    preview_images: {
+      'notion.so/image/attachment%3A08e9ffb5-9f6d-442b-b470-ce2e62a6b6b2%3Ablur-codes-coding-577585.jpg': [Object],
+      'notion.so/image/attachment%3Af70d3dc6-ce97-4be2-9cde-b86606147b41%3A06.jpg': [Object],
+      'notion.so/image/attachment%3Aa2bd3317-78e4-48bc-8d27-9b733175a416%3Anotion-opt.png': [Object],
+      'notion.so/image/attachment%3Af25171e8-0137-43ff-8420-4e64311374a0%3Acss-coding.gif': [Object],
+      'notion.so/image/attachment%3Afa44fbba-90b4-4f40-a00f-fa6eb7fd37e3%3Acarbon.png': [Object],
+      'notion.so/image/attachment%3Add51c676-a398-43be-ac67-1fb524b22fa8%3Acrl.gif': [Object],
+      'notion.so/image/attachment%3A597cca0f-7d56-4cef-ab22-09f9886e42e5%3Aprompts.gif': [Object]
+    },
+    tweets: {}
+  }
+}
+notion page {
+  isDev: false,
+  title: 'Blog Posts',
+  pageId: '1acc9a21-8faa-8136-9783-f74b3037f71a',
+  rootNotionPageId: '1acc9a218faa81369783f74b3037f71a',
+  recordMap: {
+    block: {
+      '1acc9a21-8faa-8136-9783-f74b3037f71a': [Object],
+      '1acc9a21-8faa-802a-b8cb-ce2de107b7cc': [Object],
+      '1acc9a21-8faa-80be-a65d-f5a7249a6bc0': [Object],
+      '1acc9a21-8faa-8105-be4c-cd8c509b0469': [Object],
+      '1acc9a21-8faa-8119-9218-c799e3a0e269': [Object],
+      '1acc9a21-8faa-8182-8127-df1a2e78945b': [Object],
+      '1acc9a21-8faa-81bb-bbd4-fb8a21dce341': [Object],
+      '1acc9a21-8faa-808f-9c0a-d4d9aacbfea5': [Object],
+      '1acc9a21-8faa-80b2-aec4-fa62f52de5c3': [Object],
+      '1acc9a21-8faa-809a-be46-ddc237bf9194': [Object],
+      '1acc9a21-8faa-8135-95a6-ced8ef33f4e5': [Object],
+      '1acc9a21-8faa-817b-bb38-c527eb2f2025': [Object],
+      '1acc9a21-8faa-8100-b016-c40d3fe65089': [Object],
+      '1acc9a21-8faa-81d4-92fa-f3577b2f203a': [Object],
+      '1acc9a21-8faa-8119-90fc-f22196ff388a': [Object],
+      '1acc9a21-8faa-8133-a277-ed81ccc29199': [Object],
+      '1acc9a21-8faa-817c-826a-e6ff98b76fd2': [Object],
+      '1acc9a21-8faa-8129-9e5f-e07dff5fece3': [Object],
+      '1acc9a21-8faa-81bc-bdb6-f69df9b1b717': [Object],
+      '1acc9a21-8faa-8140-a6e5-ebdb2c47fe8b': [Object],
+      '1acc9a21-8faa-8166-885d-c41017e56994': [Object],
+      '1acc9a21-8faa-8182-8889-c40a32db2145': [Object],
+      '1acc9a21-8faa-8143-8681-c985652c7d64': [Object],
+      '1acc9a21-8faa-81df-a470-d901f061ed27': [Object],
+      '1acc9a21-8faa-811f-9681-dd0aa10afd3a': [Object],
+      '1acc9a21-8faa-81b3-beec-daeaca130441': [Object],
+      '1acc9a21-8faa-8157-a027-cf0309497991': [Object],
+      '1acc9a21-8faa-81b2-84d9-ef02e1d1e198': [Object],
+      '1acc9a21-8faa-8187-8a02-c96b6f69d38a': [Object],
+      '1acc9a21-8faa-8118-ae75-fbe6727d9480': [Object],
+      '1acc9a21-8faa-812f-bfd6-fe4d6e08bb56': [Object],
+      '1acc9a21-8faa-81fd-ac66-df3d591b4582': [Object]
+    },
+    collection_view: {
+      '1acc9a21-8faa-8199-88e2-000c6037ccd1': [Object],
+      '1acc9a21-8faa-814c-b029-000c121f0673': [Object]
+    },
+    collection: { '1acc9a21-8faa-81a6-8e7c-000b9941eded': [Object] },
+    team: { '1acc9a21-8faa-81ce-9d1c-0042c712a98e': [Object] },
+    notion_user: {},
+    collection_query: { '1acc9a21-8faa-81a6-8e7c-000b9941eded': [Object] },
+    signed_urls: {},
+    preview_images: {
+      'notion.so/image/attachment%3Af70d3dc6-ce97-4be2-9cde-b86606147b41%3A06.jpg': [Object],
+      'notion.so/image/attachment%3Aa2bd3317-78e4-48bc-8d27-9b733175a416%3Anotion-opt.png': [Object],
+      'notion.so/image/notion.so%2Fimages%2Fpage-cover%2Fwebb1.jpg': [Object],
+      'notion.so/image/attachment%3A0cb69622-caba-4237-9639-98cdbd6e58af%3Abg-gradient-opt.jpg': [Object],
+      'notion.so/image/attachment%3A67628675-8e04-46e7-9b91-a5392caf0f30%3Anextjs-logo.png': [Object],
+      'notion.so/image/notion.so%2Fimages%2Fpage-cover%2Frijksmuseum_claesz_1628.jpg': [Object],
+      'notion.so/image/attachment%3A08e9ffb5-9f6d-442b-b470-ce2e62a6b6b2%3Ablur-codes-coding-577585.jpg': [Object],
+      'notion.so/image/transitivebullsh.it%2Fapi%2Fsocial-image': [Object],
+      'notion.so/image/transitivebullsh.it%2Ffavicon-96x96.png': [Object],
+      'notion.so/image/attachment%3Af25171e8-0137-43ff-8420-4e64311374a0%3Acss-coding.gif': [Object]
+    },
+    tweets: {}
+  }
+}
+notion page {
+  isDev: false,
+  title: 'Blog Posts',
+  pageId: '1acc9a218faa81369783f74b3037f71a',
+  rootNotionPageId: '1acc9a218faa81369783f74b3037f71a',
+  recordMap: {
+    block: {
+      '1acc9a21-8faa-8136-9783-f74b3037f71a': [Object],
+      '1acc9a21-8faa-802a-b8cb-ce2de107b7cc': [Object],
+      '1acc9a21-8faa-80be-a65d-f5a7249a6bc0': [Object],
+      '1acc9a21-8faa-8105-be4c-cd8c509b0469': [Object],
+      '1acc9a21-8faa-8119-9218-c799e3a0e269': [Object],
+      '1acc9a21-8faa-8182-8127-df1a2e78945b': [Object],
+      '1acc9a21-8faa-81bb-bbd4-fb8a21dce341': [Object],
+      '1acc9a21-8faa-808f-9c0a-d4d9aacbfea5': [Object],
+      '1acc9a21-8faa-80b2-aec4-fa62f52de5c3': [Object],
+      '1acc9a21-8faa-809a-be46-ddc237bf9194': [Object],
+      '1acc9a21-8faa-8135-95a6-ced8ef33f4e5': [Object],
+      '1acc9a21-8faa-817b-bb38-c527eb2f2025': [Object],
+      '1acc9a21-8faa-8100-b016-c40d3fe65089': [Object],
+      '1acc9a21-8faa-81d4-92fa-f3577b2f203a': [Object],
+      '1acc9a21-8faa-8119-90fc-f22196ff388a': [Object],
+      '1acc9a21-8faa-8133-a277-ed81ccc29199': [Object],
+      '1acc9a21-8faa-817c-826a-e6ff98b76fd2': [Object],
+      '1acc9a21-8faa-8129-9e5f-e07dff5fece3': [Object],
+      '1acc9a21-8faa-81bc-bdb6-f69df9b1b717': [Object],
+      '1acc9a21-8faa-8140-a6e5-ebdb2c47fe8b': [Object],
+      '1acc9a21-8faa-8166-885d-c41017e56994': [Object],
+      '1acc9a21-8faa-8182-8889-c40a32db2145': [Object],
+      '1acc9a21-8faa-8143-8681-c985652c7d64': [Object],
+      '1acc9a21-8faa-81df-a470-d901f061ed27': [Object],
+      '1acc9a21-8faa-811f-9681-dd0aa10afd3a': [Object],
+      '1acc9a21-8faa-81b3-beec-daeaca130441': [Object],
+      '1acc9a21-8faa-8157-a027-cf0309497991': [Object],
+      '1acc9a21-8faa-81b2-84d9-ef02e1d1e198': [Object],
+      '1acc9a21-8faa-8187-8a02-c96b6f69d38a': [Object],
+      '1acc9a21-8faa-8118-ae75-fbe6727d9480': [Object],
+      '1acc9a21-8faa-812f-bfd6-fe4d6e08bb56': [Object],
+      '1acc9a21-8faa-81fd-ac66-df3d591b4582': [Object]
+    },
+    collection_view: {
+      '1acc9a21-8faa-8199-88e2-000c6037ccd1': [Object],
+      '1acc9a21-8faa-814c-b029-000c121f0673': [Object]
+    },
+    collection: { '1acc9a21-8faa-81a6-8e7c-000b9941eded': [Object] },
+    team: { '1acc9a21-8faa-81ce-9d1c-0042c712a98e': [Object] },
+    notion_user: {},
+    collection_query: { '1acc9a21-8faa-81a6-8e7c-000b9941eded': [Object] },
+    signed_urls: {},
+    preview_images: {
+      'notion.so/image/attachment%3Af70d3dc6-ce97-4be2-9cde-b86606147b41%3A06.jpg': [Object],
+      'notion.so/image/attachment%3Aa2bd3317-78e4-48bc-8d27-9b733175a416%3Anotion-opt.png': [Object],
+      'notion.so/image/notion.so%2Fimages%2Fpage-cover%2Fwebb1.jpg': [Object],
+      'notion.so/image/attachment%3A0cb69622-caba-4237-9639-98cdbd6e58af%3Abg-gradient-opt.jpg': [Object],
+      'notion.so/image/attachment%3A67628675-8e04-46e7-9b91-a5392caf0f30%3Anextjs-logo.png': [Object],
+      'notion.so/image/notion.so%2Fimages%2Fpage-cover%2Frijksmuseum_claesz_1628.jpg': [Object],
+      'notion.so/image/attachment%3A08e9ffb5-9f6d-442b-b470-ce2e62a6b6b2%3Ablur-codes-coding-577585.jpg': [Object],
+      'notion.so/image/transitivebullsh.it%2Fapi%2Fsocial-image': [Object],
+      'notion.so/image/transitivebullsh.it%2Ffavicon-96x96.png': [Object],
+      'notion.so/image/attachment%3Af25171e8-0137-43ff-8420-4e64311374a0%3Acss-coding.gif': [Object]
+    },
+    tweets: {}
+  }
+}
+lqip {
+  originalWidth: 2200,
+  originalHeight: 1238,
+  width: 16,
+  height: 9,
+  type: 'webp',
+  dataURIBase64: 'data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoQAAkABUB8JbACdAD2CGHwpDbAAP6sPxnA5FKMZGa9CnkYVtJMn9aOF0nFIjNVTna2LenysntRiAhGxNbAJ4R+8xCfLgAA',
+  url: 'https://www.notion.so/image/attachment%3Ac8028bee-f4c7-4736-8c36-fffcab5d977e%3Awp5493885.jpg?table=block&id=1acc9a21-8faa-8146-ac02-c79ffae3a526&cache=v2',
+  cacheKey: 'notion.so/image/attachment%3Ac8028bee-f4c7-4736-8c36-fffcab5d977e%3Awp5493885.jpg'
+}
+notion page {
+  isDev: false,
+  title: 'About',
+  pageId: '1acc9a21-8faa-8146-ac02-c79ffae3a526',
+  rootNotionPageId: '1acc9a218faa81369783f74b3037f71a',
+  recordMap: {
+    block: {
+      '1acc9a21-8faa-8146-ac02-c79ffae3a526': [Object],
+      '1acc9a21-8faa-81f7-9656-edf78a2a1bf0': [Object],
+      '1acc9a21-8faa-81fa-a812-e00bd4b9df05': [Object],
+      '1acc9a21-8faa-802a-b8cb-ce2de107b7cc': [Object],
+      '1acc9a21-8faa-81a8-b7a7-d8173acee709': [Object],
+      '1acc9a21-8faa-810e-9914-ce7016f3683b': [Object],
+      '1acc9a21-8faa-81a0-9877-e2c1392c6904': [Object],
+      '1acc9a21-8faa-8158-b050-e8ae5fcf27e6': [Object],
+      '1acc9a21-8faa-8132-9ea3-eb757e7c4ef8': [Object],
+      '1acc9a21-8faa-817f-8c6a-e7d90e109a71': [Object]
+    },
+    team: { '1acc9a21-8faa-81ce-9d1c-0042c712a98e': [Object] },
+    collection: {},
+    collection_view: {},
+    notion_user: {},
+    collection_query: {},
+    signed_urls: {},
+    preview_images: {
+      'notion.so/image/attachment%3Ac8028bee-f4c7-4736-8c36-fffcab5d977e%3Awp5493885.jpg': [Object],
+      'notion.so/image/attachment%3Af70d3dc6-ce97-4be2-9cde-b86606147b41%3A06.jpg': [Object],
+      'notion.so/image/attachment%3Aa2bd3317-78e4-48bc-8d27-9b733175a416%3Anotion-opt.png': [Object]
+    },
+    tweets: {}
+  }
+}
+lqip {
+  originalWidth: 2000,
+  originalHeight: 500,
+  width: 16,
+  height: 4,
+  type: 'webp',
+  dataURIBase64: 'data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAADQAQCdASoQAAQABUB8JQBOgCIAPGy4AAD+787PWlJa+O5cFQnRalnAAAA=',
+  url: 'https://www.notion.so/image/attachment%3A7e18c5c5-864d-4ff8-96a6-b8cc0cfd61e6%3A06.jpg?table=block&id=1acc9a21-8faa-81b7-a56b-dfcc5545fb0f&cache=v2',
+  cacheKey: 'notion.so/image/attachment%3A7e18c5c5-864d-4ff8-96a6-b8cc0cfd61e6%3A06.jpg'
+}
+notion page {
+  isDev: false,
+  title: 'Contact',
+  pageId: '1acc9a21-8faa-81b7-a56b-dfcc5545fb0f',
+  rootNotionPageId: '1acc9a218faa81369783f74b3037f71a',
+  recordMap: {
+    block: {
+      '1acc9a21-8faa-81b7-a56b-dfcc5545fb0f': [Object],
+      '1acc9a21-8faa-8197-be70-e4fcda40823a': [Object],
+      '1acc9a21-8faa-81fa-a812-e00bd4b9df05': [Object],
+      '1acc9a21-8faa-802a-b8cb-ce2de107b7cc': [Object],
+      '1acc9a21-8faa-81da-bcac-d7276f9bf245': [Object],
+      '1acc9a21-8faa-81e5-84aa-eb66faf2192f': [Object],
+      '1acc9a21-8faa-818a-95eb-f31231001e83': [Object],
+      '1acc9a21-8faa-8161-8cd8-ef1f3afd9f65': [Object]
+    },
+    team: { '1acc9a21-8faa-81ce-9d1c-0042c712a98e': [Object] },
+    collection: {},
+    collection_view: {},
+    notion_user: {},
+    collection_query: {},
+    signed_urls: {},
+    preview_images: {
+      'notion.so/image/attachment%3A7e18c5c5-864d-4ff8-96a6-b8cc0cfd61e6%3A06.jpg': [Object],
+      'notion.so/image/attachment%3Af70d3dc6-ce97-4be2-9cde-b86606147b41%3A06.jpg': [Object],
+      'notion.so/image/attachment%3Aa2bd3317-78e4-48bc-8d27-9b733175a416%3Anotion-opt.png': [Object]
+    },
+    tweets: {}
+  }
+}
+notion page {
+  isDev: false,
+  title: 'Blog',
+  pageId: '1acc9a21-8faa-802a-b8cb-ce2de107b7cc',
+  rootNotionPageId: '1acc9a218faa81369783f74b3037f71a',
+  recordMap: {
+    block: {
+      '1acc9a21-8faa-802a-b8cb-ce2de107b7cc': [Object],
+      '1acc9a21-8faa-818a-baf2-c34e1dff08c4': [Object],
+      '1acc9a21-8faa-81fa-9da2-de1c99b8933d': [Object],
+      '1acc9a21-8faa-8136-9783-f74b3037f71a': [Object],
+      '1acc9a21-8faa-81cd-b4ed-f94b2ce2ef8d': [Object],
+      '1acc9a21-8faa-81fa-a812-e00bd4b9df05': [Object],
+      '1acc9a21-8faa-81f7-9656-edf78a2a1bf0': [Object],
+      '1acc9a21-8faa-8197-be70-e4fcda40823a': [Object],
+      '1acc9a21-8faa-8146-ac02-c79ffae3a526': [Object],
+      '1acc9a21-8faa-81b7-a56b-dfcc5545fb0f': [Object],
+      '1acc9a21-8faa-80be-a65d-f5a7249a6bc0': [Object],
+      '1acc9a21-8faa-8105-be4c-cd8c509b0469': [Object],
+      '1acc9a21-8faa-8119-9218-c799e3a0e269': [Object],
+      '1acc9a21-8faa-8182-8127-df1a2e78945b': [Object],
+      '1acc9a21-8faa-81bb-bbd4-fb8a21dce341': [Object],
+      '1acc9a21-8faa-808f-9c0a-d4d9aacbfea5': [Object],
+      '1acc9a21-8faa-80b2-aec4-fa62f52de5c3': [Object],
+      '1acc9a21-8faa-809a-be46-ddc237bf9194': [Object],
+      '1acc9a21-8faa-8135-95a6-ced8ef33f4e5': [Object],
+      '1acc9a21-8faa-817b-bb38-c527eb2f2025': [Object],
+      '1acc9a21-8faa-8100-b016-c40d3fe65089': [Object],
+      '1acc9a21-8faa-81d4-92fa-f3577b2f203a': [Object],
+      '1acc9a21-8faa-8119-90fc-f22196ff388a': [Object],
+      '1acc9a21-8faa-8133-a277-ed81ccc29199': [Object],
+      '1acc9a21-8faa-817c-826a-e6ff98b76fd2': [Object],
+      '1acc9a21-8faa-8129-9e5f-e07dff5fece3': [Object],
+      '1acc9a21-8faa-81bc-bdb6-f69df9b1b717': [Object],
+      '1acc9a21-8faa-8140-a6e5-ebdb2c47fe8b': [Object],
+      '1acc9a21-8faa-8166-885d-c41017e56994': [Object],
+      '1acc9a21-8faa-8182-8889-c40a32db2145': [Object],
+      '1acc9a21-8faa-8143-8681-c985652c7d64': [Object],
+      '1acc9a21-8faa-81df-a470-d901f061ed27': [Object],
+      '1acc9a21-8faa-811f-9681-dd0aa10afd3a': [Object],
+      '1acc9a21-8faa-81b3-beec-daeaca130441': [Object],
+      '1acc9a21-8faa-8157-a027-cf0309497991': [Object],
+      '1acc9a21-8faa-81b2-84d9-ef02e1d1e198': [Object],
+      '1acc9a21-8faa-8187-8a02-c96b6f69d38a': [Object],
+      '1acc9a21-8faa-8118-ae75-fbe6727d9480': [Object],
+      '1acc9a21-8faa-812f-bfd6-fe4d6e08bb56': [Object],
+      '1acc9a21-8faa-81fd-ac66-df3d591b4582': [Object]
+    },
+    team: { '1acc9a21-8faa-81ce-9d1c-0042c712a98e': [Object] },
+    collection_view: {
+      '1acc9a21-8faa-8199-88e2-000c6037ccd1': [Object],
+      '1acc9a21-8faa-814c-b029-000c121f0673': [Object]
+    },
+    collection: { '1acc9a21-8faa-81a6-8e7c-000b9941eded': [Object] },
+    notion_user: {},
+    collection_query: { '1acc9a21-8faa-81a6-8e7c-000b9941eded': [Object] },
+    signed_urls: {},
+    preview_images: {
+      'notion.so/image/attachment%3Af70d3dc6-ce97-4be2-9cde-b86606147b41%3A06.jpg': [Object],
+      'notion.so/image/attachment%3Aa2bd3317-78e4-48bc-8d27-9b733175a416%3Anotion-opt.png': [Object],
+      'notion.so/image/attachment%3Ac8028bee-f4c7-4736-8c36-fffcab5d977e%3Awp5493885.jpg': [Object],
+      'notion.so/image/attachment%3A7e18c5c5-864d-4ff8-96a6-b8cc0cfd61e6%3A06.jpg': [Object],
+      'notion.so/image/notion.so%2Fimages%2Fpage-cover%2Fwebb1.jpg': [Object],
+      'notion.so/image/attachment%3A0cb69622-caba-4237-9639-98cdbd6e58af%3Abg-gradient-opt.jpg': [Object],
+      'notion.so/image/attachment%3A67628675-8e04-46e7-9b91-a5392caf0f30%3Anextjs-logo.png': [Object],
+      'notion.so/image/notion.so%2Fimages%2Fpage-cover%2Frijksmuseum_claesz_1628.jpg': [Object],
+      'notion.so/image/attachment%3A08e9ffb5-9f6d-442b-b470-ce2e62a6b6b2%3Ablur-codes-coding-577585.jpg': [Object],
+      'notion.so/image/transitivebullsh.it%2Fapi%2Fsocial-image': [Object],
+      'notion.so/image/transitivebullsh.it%2Ffavicon-96x96.png': [Object],
+      'notion.so/image/attachment%3Af25171e8-0137-43ff-8420-4e64311374a0%3Acss-coding.gif': [Object]
+    },
+    tweets: {}
+  }
+}
+[?25h [32m[1m✓[22m[39m Generating static pages (12/12)
+[?25l [37m[1m [22m[39m Finalizing page optimization  [36m.[39m[?25l [37m[1m [22m[39m Collecting build traces  [36m.[39m[2K[1G[?25h [37m[1m [22m[39m Collecting build traces     [32m[1m✓[22m[39m Collecting build traces 
+[2K[1G[?25h [37m[1m [22m[39m Finalizing page optimization     [32m[1m✓[22m[39m Finalizing page optimization 
+
+[4mRoute (pages)[24m                               [4mSize[24m     [4mFirst Load JS[24m
+┌ ● / (ISR: 10 Seconds) ([31m[1m2487 ms[22m[39m)           282 B           [37m[1m210 kB[22m[39m
+├   /_app                                   0 B             [37m[1m157 kB[22m[39m
+├ ● /[pageId] (ISR: 10 Seconds) ([31m[1m14033 ms[22m[39m)  291 B           [37m[1m210 kB[22m[39m
+├   ├ /blog-posts ([31m[1m2442 ms[22m[39m)
+├   ├ /example-article ([31m[1m2442 ms[22m[39m)
+├   ├ /nextjs-notion-starter-kit ([31m[1m2338 ms[22m[39m)
+├   ├ /use-notion-cms ([31m[1m2338 ms[22m[39m)
+├   ├ /custom-slug ([31m[1m2338 ms[22m[39m)
+├   ├ /blog ([32m996 ms[39m)
+├   ├ /contact ([32m547 ms[39m)
+├   └ /about ([32m434 ms[39m)
+├ ○ /404                                    1.66 kB         [37m[1m158 kB[22m[39m
+├ ƒ /api/search-notion                      0 B             [37m[1m157 kB[22m[39m
+├ ƒ /api/social-image                       0 B             [37m[1m157 kB[22m[39m
+├ ƒ /feed                                   252 B           [37m[1m157 kB[22m[39m
+├ ƒ /robots.txt                             256 B           [37m[1m157 kB[22m[39m
+└ ƒ /sitemap.xml                            257 B           [37m[1m157 kB[22m[39m
++ First Load JS shared by all               [37m[1m173 kB[22m[39m
+  ├ chunks/framework-4b58c5073144a706.js    57.5 kB
+  ├ chunks/main-bf1acaec3dca396e.js         33.8 kB
+  ├ chunks/pages/_app-805087ff06b5f482.js   62.9 kB
+  ├ css/cb58ddc9720588cc.css                16 kB
+  └ other shared chunks (total)             2.41 kB
+
+○  (Static)   prerendered as static content
+●  (SSG)      prerendered as static HTML (uses [36mgetStaticProps[39m)
+   (ISR)      incremental static regeneration (uses revalidate in [36mgetStaticProps[39m)
+ƒ  (Dynamic)  server-rendered on demand
+
+[?25h
