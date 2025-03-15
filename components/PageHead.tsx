@@ -50,6 +50,7 @@ export function PageHead({
       />
 
       <meta name='robots' content='index,follow' />
+      <meta name='googlebot' content='index, follow' />
       <meta property='og:type' content='website' />
 
       {site && (
