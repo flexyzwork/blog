@@ -12,6 +12,7 @@ import 'styles/global.css'
 import 'styles/notion.css'
 // global style overrides for prism theme (optional)
 import 'styles/prism-theme.css'
+import Script from 'next/script'
 
 import type { AppProps } from 'next/app'
 import * as Fathom from 'fathom-client'
@@ -61,5 +62,24 @@ export default function App({ Component, pageProps }: AppProps) {
     }
   }, [router.events])
 
-  return <Component {...pageProps} />
+  return (
+    <>
+      {/* Google Analytics 스크립트 추가 */}
+      <Script
+        strategy='afterInteractive'
+        src={`https://www.googletagmanager.com/gtag/js?id=G-PPW7EGEZMR`}
+      />
+      <Script id='google-analytics' strategy='afterInteractive'>
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){window.dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-PPW7EGEZMR', {
+            page_path: window.location.pathname,
+          });
+        `}
+      </Script>
+      <Component {...pageProps} />
+    </>
+  )
 }
